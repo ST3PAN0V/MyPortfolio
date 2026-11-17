@@ -8,13 +8,14 @@ Each case study explains the problem, implementation, and engineering decisions.
 
 ## Featured projects
 
-| Project | What it covers | Source code |
+| Project | What it covers | Access |
 | :--- | :--- | :--- |
 | [**CryptoScaner**](projects/crypto-scanner/README.md) | Asynchronous exchange integrations, market-data consistency, analytical screeners, and a Telegram Mini App. | Private |
 | [**UnrealSniper**](projects/unreal-sniper/README.md) | Telegram marketplace strategies, shared market data, independent services, and operational monitoring. | Private |
 | [**C++ Game Backend**](projects/cpp-game-backend/README.md) | A C++20 game server with an HTTP API, persistent game state, and a PostgreSQL leaderboard. | [Repository](https://github.com/ST3PAN0V/backend_server) |
+| [**Latency Trap**](projects/latency-trap/README.md) | A historical marketplace incident involving stale quotes, payment confirmation, and price validation. | Retrospective |
 
-The CryptoScaner and UnrealSniper case studies include screenshots of their interfaces.
+Screenshots accompany CryptoScaner, UnrealSniper, and the Latency Trap retrospective.
 
 ## More engineering work
 

@@ -37,19 +37,34 @@ Several automated workflows need a consistent view of prices and operational sta
 - Handling unavailable dependencies and exposing service health.
 - Supporting component tests, type checks and static analysis.
 
+## Telegram strategy activity
+
+| Measure | Reported value |
+| --- | --- |
+| Approximate combined turnover | **US$5,000–8,000** |
+| Scope | All Telegram trading strategies |
+| Calculation | Purchase amounts + sale amounts |
+| Reporting period | Recent months, as reported in November 2026 |
+
 ## Product snapshots
 
 ### Service status
 
-![UnrealSniper service status in the Telegram Mini App](../../assets/unreal-sniper/service-status.jpg)
+![UnrealSniper service status in the Telegram Mini App](../../assets/unreal-sniper/service-status.png)
 
 *Collector and strategy service monitoring in the Telegram Mini App.*
 
 ### Trading statistics
 
-![UnrealSniper trading statistics interface](../../assets/unreal-sniper/trading-stats.jpg)
+![UnrealSniper trading statistics interface](../../assets/unreal-sniper/trading-stats.png)
 
 *An operational statistics view for the Telegram trading workflows.*
+
+### Stars activity
+
+![Telegram Stars activity chart](../../assets/unreal-sniper/stars-activity.png)
+
+*Telegram Stars activity over the reporting window shown in the interface.*
 
 ## Stack
 

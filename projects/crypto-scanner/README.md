@@ -37,7 +37,7 @@ Quotes from different exchanges arrive through separate APIs, use different inst
 
 ## Product snapshot
 
-![Early CryptoScaner interface for perpetual-versus-perpetual monitoring](../../assets/crypto-scanner/early-perpetuals-dashboard.jpg)
+![Early CryptoScaner interface for perpetual-versus-perpetual monitoring](../../assets/crypto-scanner/early-perpetuals-dashboard.png)
 
 *An earlier interface for perpetual-versus-perpetual monitoring. This screenshot shows an earlier version; the current implementation described in this case study focuses on spot-market collection and screening.*
 
