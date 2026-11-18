@@ -4,9 +4,9 @@
 
 **Бэкенд на C++ и Python**
 
-Асинхронные сервисы, рыночные данные, торговая автоматизация и локальные LLM.
+Высоконагруженные и асинхронные сервисы, торговая автоматизация и локальные LLM.
 
-[Проекты](#проекты) · [Интерфейсы](#интерфейсы) · [Сертификаты](#сертификаты) · [Связаться](#контакты)
+[Проекты](#проекты) · [Сертификаты](#сертификаты) · [📄 Резюме](assets/Artem_Stepanov_CV.pdf) · [Связаться](#контакты)
 
 </div>
 
@@ -20,8 +20,8 @@
 
 | Проект | Что реализовано | Основной стек |
 | :--- | :--- | :--- |
-| **01 · [UnrealSniper](projects/01-unreal-sniper.md)**<br>Закрытый код | Общее состояние рынка в Redis, независимые стратегии и межплощадочный арбитраж. Mini App для управления и статистики. | Python · asyncio · FastAPI · Redis · SQLite |
-| **02 · [CryptoScaner](projects/02-crypto-scanner.md)**<br>Закрытый код | Потоковые котировки, межбиржевой и треугольный спотовый анализ. История наблюдений в PostgreSQL и интерфейс в Mini App. | Python · WebSocket · PostgreSQL · CCXT |
+| **01 · [UnrealSniper](projects/01-unreal-sniper.md)**<br>Закрытый код | 5 микросервисов, 3 торговые стратегии и 6 API-интеграций. Оборот всех стратегий: **≈1,5 млн USD за 7 месяцев**, **≈7 000 USD в сутки** — сумма покупок и продаж. | Python · asyncio · FastAPI · Redis · SQLite |
+| **02 · [CryptoScaner](projects/02-crypto-scanner.md)**<br>Закрытый код | Мониторинг perp/perp, perp/spot и фандинга на 8 биржах CEX/DEX. WebSocket и REST, учёт комиссий, история сигналов. | Python · CCXT Pro · PostgreSQL · NautilusTrader |
 | **03 · [Игровой сервер на C++](projects/03-cpp-game-backend.md)**<br>[Открытый код](https://github.com/ST3PAN0V/backend_server) | Учебный бэкенд: HTTP API, игровая модель, сохранение состояния и таблица рекордов. | C++20 · Boost.Asio · PostgreSQL · Docker |
 
 ### 🤖 Боты и автоматизация
@@ -49,20 +49,7 @@
 | **12 · [Latency Trap](projects/12-latency-trap.md)** | Разбор инцидента на рынке Telegram-подарков: изменение цены между предложением и оплатой, выводы для проверки транзакций. |
 | **13 · [Тренировки по алгоритмам](projects/13-algorithms.md)** | Решения Тренировок по алгоритмам 6.0 от Яндекса: **34 из 35 задач, 141-е место из 10 000+ участников**. |
 
-## Интерфейсы
-
-<table>
-  <tr>
-    <td align="center"><b>UnrealSniper</b><br>Мониторинг сервисов</td>
-    <td align="center"><b>CryptoScaner</b><br>Ранний интерфейс</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="projects/01-unreal-sniper.md"><img src="assets/unreal-sniper-service-status.png" height="320" alt="Состояние сервисов UnrealSniper"></a></td>
-    <td align="center"><a href="projects/02-crypto-scanner.md"><img src="assets/crypto-scanner-early-perpetuals-dashboard.png" height="320" alt="Ранний интерфейс CryptoScaner для наблюдений за бессрочными фьючерсами"></a></td>
-  </tr>
-</table>
-
-Больше скриншотов — в описаниях проектов.
+📸 Скриншоты интерфейсов и торговая статистика — на страницах соответствующих проектов.
 
 ## Сертификаты
 
@@ -70,4 +57,4 @@
 
 ## Контакты
 
-[GitHub](https://github.com/ST3PAN0V) · [Telegram](https://t.me/ArtemS101)
+[GitHub](https://github.com/ST3PAN0V) · [Telegram](https://t.me/ArtemS101) · [Email](mailto:st3pnv@gmail.com)
