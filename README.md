@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # 🚀 Интересные проекты
 
@@ -27,6 +27,7 @@
 
 | Проект | Что реализовано | Основной стек |
 | :--- | :--- | :--- |
+| **[Бот регистрации на мероприятия](projects/14-event-registration-bot.md)**<br>Закрытый код · коммерческий заказ | Регистрация участников, выбор категории билета, интеграция Telegram Payments и администрирование базы пользователей через панель организатора. | Python · pyTelegramBotAPI · SQLite · Telegram Payments |
 | **[Диалоговый ИИ-бот](projects/04-conversational-ai-bot.md)**<br>Закрытый код | Контекст диалогов, квоты, оплата в Telegram Stars и согласованная обработка запросов внутри чата. | Python · httpx · SQLite · Telegram Bot API |
 | **[SummarySearchBot](projects/06-summary-search-bot.md)**<br>Закрытый код | Сводки переписки за выбранный период с помощью локальных LLM. Ссылки на исходные сообщения. | Python · asyncio · Kurigram · локальные LLM |
 | **[Workzilla Bot](projects/07-workzilla-assistant.md)**<br>Описание проекта | Анализ заказов локальными LLM, уведомления в Telegram и подготовка черновиков откликов. | Python · httpx · локальные LLM · Telegram Bot API |
@@ -37,7 +38,7 @@
 | :--- | :--- | :--- |
 | **[Игровой сервер на C++](projects/03-cpp-game-backend.md)**<br>[Открытый код](https://github.com/ST3PAN0V/backend_server) | Учебный бэкенд: HTTP API, игровая модель, сохранение состояния и таблица рекордов. | C++20 · Boost.Asio · PostgreSQL · Docker |
 | **[Игры на C++](projects/08-cpp-games.md)** | TerminalAdventure и ранняя графическая игра: логика, управление и отрисовка. | C++ · ncurses · OpenGL · CMake |
-| **[Инструменты автоматизации](projects/09-automation-tools.md)** | Регистрация на мероприятия, пакетная обработка DOCX и отчёты о рабочей нагрузке. | Python · SQLite · python-docx · C++17 |
+| **[Инструменты автоматизации](projects/09-automation-tools.md)** | Пакетная обработка DOCX и отчёты о рабочей нагрузке. | Python · python-docx · C++17 |
 | **[Передача файлов по TCP и UDP](projects/10-tcp-udp-file-transfer.md)**<br>[Открытый код](https://github.com/ST3PAN0V/file-transfer-udp-tcp) | Клиент и сервер, работа с сокетами и проверка переданных файлов. | Python · socket · Bash |
 | **[Многопоточность в C++](projects/11-cpp-concurrency.md)**<br>[Открытый код](https://github.com/ST3PAN0V/Multi_Threading_practice) | Асинхронные таймеры, рабочие потоки и синхронизация общих результатов. | C++20 · Boost.Asio · CMake |
 
