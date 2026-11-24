@@ -22,7 +22,7 @@
 <details open>
 <summary><b>📈 Торговая статистика в Mini App</b></summary>
 
-<img src="../assets/unreal-sniper-trading-stats.png" alt="UnrealSniper: результаты продаж и торговая статистика" width="720">
+<img src="../assets/unreal-sniper-trading-stats.jpg" alt="UnrealSniper: результаты продаж и торговая статистика" width="720">
 
 *Неполная статистика продаж за один день.*
 
@@ -59,7 +59,7 @@
 
 ## 🖥️ Панель управления
 
-<img src="../assets/unreal-sniper-service-status.png" alt="UnrealSniper: состояние сборщика рынка и рабочих сервисов" width="720">
+<img src="../assets/unreal-sniper-service-status.jpg" alt="UnrealSniper: состояние сборщика рынка и рабочих сервисов" width="720">
 
 *Состояние сборщика и сервисов в Telegram Mini App.*
 
